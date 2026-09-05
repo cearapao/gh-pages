@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cearapao.com.br/sitemap.xml
